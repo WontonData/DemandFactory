@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/DonateFactory.sol",
+  "deploy": "./build/contracts/DonateFactory.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.6.12"
+  }
+}
